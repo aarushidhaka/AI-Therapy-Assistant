@@ -55,16 +55,10 @@ It includes **human-in-the-loop mechanisms** and Warwick-specific wellbeing reso
 
 ---
 
-### `Group_8_Video_Presentation.MP4`
-- Explains system design, human-in-the-loop integration, and future scope.  
-- Useful for stakeholders and non-technical audiences.  
-
----
-
 ## 🚀 How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<yourusername>/AI-Therapy-Assistant.git
+   git clone https://github.com/aarushidhaka/AI-Therapy-Assistant.git
    cd AI-Therapy-Assistant
 2. Open Group_8_Narrative&Code.ipynb in Jupyter Notebook.
 3. Install dependencies from requirements.txt (if provided).
